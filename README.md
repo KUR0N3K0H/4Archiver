@@ -4,7 +4,9 @@ This script was written in Python 3.8 on Ubuntu 20.04,  I tried to make the scri
 4Archiver relies on a few non-standard libraries you can install with pip3.  To run this script you will need to install:
  
 PySimpleGUI
+
 pywebcopy
+
 httpx
 
 The other libraries I use should come with the standard Python library.
