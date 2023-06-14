@@ -17,4 +17,6 @@ Python3 4Archiver.py
 
 Your list of threads is saved to a text file called “threads.txt”.  If the script does not detect this file in the present working directory at startup it will create an empty file.  The script will remove any threads that have been archived or 404ed. 
 
-The script will create a folder for each board in your present working directory,  from there each thread will also have its on sub-folder.   
+The script will create a folder for each board in your present working directory, from there each thread will also have its on sub-folder.   
+
+If you want to disable the progress bar that pops up comment out line 93.
