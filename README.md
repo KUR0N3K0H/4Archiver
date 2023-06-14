@@ -19,4 +19,6 @@ Your list of threads is saved to a text file called “threads.txt”.  If the s
 
 The script will create a folder for each board in your present working directory, from there each thread will also have its on sub-folder.   
 
-If you want to disable the progress bar that pops up comment out line 93.
+Every 60 seconds the script will iterate through the list of threads in threads.txt.
+
+If you want to disable the progress bar that pops up comment out line 93.   
