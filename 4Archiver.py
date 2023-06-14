@@ -16,7 +16,7 @@ class ControlGUI:
             with open('threads.txt') as f:
             	thread_list = f.read().splitlines()
         except FileNotFoundError:
-            with open(file, mode='a'): 
+            with open('threads.txt', mode='a'): 
             	pass
             with open('threads.txt') as f:
             	thread_list = f.read().splitlines()
