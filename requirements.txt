@@ -1,0 +1,17 @@
+anyio
+CacheControl
+certifi
+charset-normalizer
+exceptiongroup
+h11
+httpcore
+httpx
+idna
+lxml
+msgpack
+PySimpleGUI
+pywebcopy
+requests
+six
+sniffio
+urllib3
